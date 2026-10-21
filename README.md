@@ -1,4 +1,4 @@
-# ai_tryon_social
+# daily_crew
 
 A new Flutter project.
 

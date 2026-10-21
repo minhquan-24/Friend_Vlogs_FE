@@ -1,6 +1,6 @@
 {
-    "name": "ai_tryon_social",
-    "short_name": "ai_tryon_social",
+    "name": "daily_crew",
+    "short_name": "daily_crew",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

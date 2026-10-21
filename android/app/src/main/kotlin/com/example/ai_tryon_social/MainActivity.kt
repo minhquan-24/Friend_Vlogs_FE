@@ -1,4 +1,4 @@
-package com.example.ai_tryon_social
+package com.example.daily_crew
 
 import io.flutter.embedding.android.FlutterActivity
 
