@@ -1,4 +1,4 @@
-import 'package:daily_crew/features/home/presentation/home_screen.dart';
+import 'package:daily_crew/features/home/presentation/screens/home_screen.dart';
 import 'package:go_router/go_router.dart';
 
 final appRouter = GoRouter(
